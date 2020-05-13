@@ -1,0 +1,6 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_home" type="drawable">@drawable/dashboard_image_foreground</item>
+    <item name="ic_profile_overview" type="drawable">@drawable/update_profile_image_foreground</item>
+    <item name="ic_menu_achievements" type="drawable">@drawable/donated_blood_today_image_foreground</item>
+    <item name="ic_logout" type="drawable">@drawable/logout_image_foreground</item>
+</resources>
